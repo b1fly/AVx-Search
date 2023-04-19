@@ -1,4 +1,4 @@
-# AVx-Search
+# AVx-Search 🔞
 由E编写的AV女友磁力和信息搜索工具
 
 # 功能
@@ -10,6 +10,8 @@
 6. 支持双击列表框某一项查看女友头像（过滤掉雷人女友）
 7. 支持一键加载MISSAV的全部女友（名字，身高三围，出生年月和年龄）
 8. 配置代理，因在墙外，所以你需要在配置里面手动修改代理地址
+
+下载地址：[AVx Search v0.1](https://github.com/b1fly/AVx-Search/releases/tag/v0.1 "AVx Search v0.1")
 
 # 问题？
 1.由E编写的，所以会报毒
